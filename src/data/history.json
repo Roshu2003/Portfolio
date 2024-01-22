@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Pupil (Max rating : 1241) ",
+    "organisation": "Codeforces",
+    "startDate": "June, 2023",
+    "endDate": "Present",
+    "experiences": ["Solved 400+ Problems", "Secured 2154 rank inn Dev 3(round 918)"],
+    "imageSrc": "history/code-forces.png"
+  },
+  {
+    "role": "3 Star ",
+    "organisation": "Codechef",
+    "startDate": "May, 2023",
+    "endDate": "Present",
+    "experiences": ["Actively participating in starters", "Secured Global raank 45 in Division 3(Starters 108)"],
+    "imageSrc": "history/codechef.png"
+  },
+  {
+    "role": "Top 100% ",
+    "organisation": "LeetCode",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Solved 40+ Problems",
+      "Rank 1,862,925"
+    ],
+    "imageSrc": "history/leetcode.png"
+  }
+]

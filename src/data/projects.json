@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/weather.png",
+    "description": "This project aims to provide users with real-time weather updates.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://lazy-pink-goose-sock.cyclic.app/",
+    "source": "https://github.com/Roshu2003/WeatherApp.git"
+  },
+  {
+    "title": "NewsApp",
+    "imageSrc": "projects/NewsApp.png",
+    "description": " Your go-to app for real-time updates, delivering the latest news as it happens, keeping you informed and connected with the world around you",
+    "skills": ["React","Javascript"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "NoteZipper",
+    "imageSrc": "projects/NoteZipper.png",
+    "description": "This is an application for writing notes where users can create and save their notes",
+    "skills": ["React", "Express", "Node","MongoDb"],
+    "demo": "https://github.com/Roshu2003/NoteZipper.git",
+    "source": "https://github.com/Roshu2003/NoteZipper.git"
+  }
+]
